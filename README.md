@@ -41,7 +41,7 @@ To turn sales data into easy-to-understand visuals that help track sales, profit
 https://github.com/Gayathri001-pala/electrohub-sales-analysis/blob/main/product_performance_overview_1.jpg
 
 ### 📌 Page 2 – Top Products & Categories
-![Page 2](dashboard-preview/electrohub-page-2.png)
+https://github.com/Gayathri001-pala/electrohub-sales-analysis/blob/main/business_trends_2.jpg
 
 ### 📌 Page 3 – Customer Segments
 ![Page 3](dashboard-preview/electrohub-page-3.png)
