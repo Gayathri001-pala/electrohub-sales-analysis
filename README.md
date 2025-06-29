@@ -14,7 +14,7 @@ To turn sales data into easy-to-understand visuals that help track sales, profit
 
 - Type: Sample retail sales data
 - Format: 5 related Excel tables (star schema)
-- Location: [data/raw](./data/raw)
+- Raw Data Set: https://github.com/Gayathri001-pala/electrohub-sales-analysis/blob/main/raw_data_electroHub_sales.xlsx
 
 **Tables included:**
 - `sales_details`
