@@ -37,13 +37,13 @@ To turn sales data into easy-to-understand visuals that help track sales, profit
 
 ## 📷 Dashboard Previews
 
-### 📌 Page 1 – Order Level Overview
+### 📌 Page 1 – Product Performance Overview
 https://github.com/Gayathri001-pala/electrohub-sales-analysis/blob/main/product_performance_overview_1.jpg
 
 ### 📌 Page 2 – Business Trends And Insights
 https://github.com/Gayathri001-pala/electrohub-sales-analysis/blob/main/business_trends_2.jpg
 
-### 📌 Page 3 – Product Performance Overview
+### 📌 Page 3 – Order Level View
 https://github.com/Gayathri001-pala/electrohub-sales-analysis/blob/main/order_level_overview_3.jpg
 
 ---
