@@ -44,7 +44,7 @@ https://github.com/Gayathri001-pala/electrohub-sales-analysis/blob/main/product_
 https://github.com/Gayathri001-pala/electrohub-sales-analysis/blob/main/business_trends_2.jpg
 
 ### 📌 Page 3 – Customer Segments
-![Page 3](dashboard-preview/electrohub-page-3.png)
+https://github.com/Gayathri001-pala/electrohub-sales-analysis/blob/main/order_level_overview_3.jpg
 
 ---
 
