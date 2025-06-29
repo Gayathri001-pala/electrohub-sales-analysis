@@ -38,7 +38,7 @@ To turn sales data into easy-to-understand visuals that help track sales, profit
 ## 📷 Dashboard Previews
 
 ### 📌 Page 1 – KPIs & Monthly Trends
-![Page 1](dashboard-preview/electrohub-page-1.png)
+https://github.com/Gayathri001-pala/electrohub-sales-analysis/blob/main/product_performance_overview_1.jpg
 
 ### 📌 Page 2 – Top Products & Categories
 ![Page 2](dashboard-preview/electrohub-page-2.png)
