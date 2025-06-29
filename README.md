@@ -74,7 +74,7 @@ This dashboard helps anyone at ElectroHub quickly understand how the business is
 
 ---
 
-📁 **Power BI File**: [`ElectroHub_Sales_Analysis.pbix`](./ElectroHub_Sales_Analysis.pbix)  
+📁 **Power BI File**: https://github.com/Gayathri001-pala/electrohub-sales-analysis/blob/main/electroHub_sales_dashboard.pbix
 🛠️ **Built With**: Power BI, Power Query, DAX  
-👤 **Created By**: Gayathri Pala
+👤 **Created By**: Pala Gayathri 
 
